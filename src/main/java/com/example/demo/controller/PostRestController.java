@@ -18,7 +18,7 @@ public class PostRestController {
 	private final PostService postService;
 
 	/**
-	 * すべての投稿と投稿者名を取得します。
+	 * すべての投稿と投稿者名を取得します。asdfasdfaf
 	 * @return
 	 */
 	@GetMapping("/posts")
